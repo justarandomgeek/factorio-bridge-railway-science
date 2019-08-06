@@ -1,0 +1,11 @@
+{
+    "name": "bridge-railway-science",
+    "version": "0.17.0",
+    "title": "Bridge Railway Science",
+    "author": "justarandomgeek",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "dependencies": ["beautiful_bridge_railway" ],
+    "description": "Provides alternate science recipes using bridge railways"
+  }
+  
